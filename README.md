@@ -2,9 +2,8 @@
 Aplicativo que serve como cardápio para algum restaurante, as demais telas ainda não foram desenvolvidas.
 
 ## Screenshots
-| 1 | 2 | 3 |
+| <img src="src/assets/screenshots/screenshot.png" width="300"> | <img src="src/assets/screenshots/screenshot2.png" width="300"> |
 |---|---|---|
-| 4 | 5 | 6 |
 
 ## As Tecnologias
 **React-Native** - http://facebook.github.io/react-native/
